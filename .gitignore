@@ -1,0 +1,12 @@
+test.py
+test2.py
+test.jpg
+www.jpg
+test.ipynb
+test_model_inference.ipynb
+train_classification.ipynb
+train_segmentation.ipynb
+.venv
+node_modules
+__pycache__
+main_window.py
