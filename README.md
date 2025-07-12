@@ -33,7 +33,6 @@ Diabetic Retinopathy (DR) is a leading cause of blindness worldwide. This projec
 - 🎯 **Lesion Segmentation**: Precise identification of pathological features
 - 💡 **Clinical Insights**: Evidence-based medical recommendations
 - 🌐 **Modern Web Interface**: React-based responsive UI
-- 🖥️ **Desktop Application**: PyQt5-based standalone GUI
 - 📱 **REST API**: Integration-ready endpoints
 - 📈 **Confidence Scoring**: Reliability metrics for predictions
 
